@@ -24,10 +24,17 @@ Target SDK	34
 Libraries Used	Material Components
 
 📸 Screenshots
+
+
+
 <img width="391" height="853" alt="Screenshot 2025-07-13 231838" src="https://github.com/user-attachments/assets/7acf34ab-b2ea-4ecf-8595-d6db391d4680" />
+
 <img width="398" height="861" alt="Screenshot 2025-07-13 231807" src="https://github.com/user-attachments/assets/663d940d-8eb3-491c-9c20-ddb707945d9e" />
 
 📸Video
+
+
+
 [Uploading Screen_recording_20250713_233144.webm…]()
 
 
